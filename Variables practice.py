@@ -24,3 +24,9 @@ print ("Is SCP-049 safe?: " +str(safe))
 print ("Is SCP-049 Euclid?: " +str(Euclid))
 print ("Is SCP-049 have any other classes?: " +str(Keter))
 
+#mulitple assignment
+
+name,weight,safe = "SCP-049", 92.754, True
+print ("It is " +str(name) +" ")
+print ("It weighs exactly " +str(weight) +" ")
+print ("and is safe. Yes? " +str(safe))
