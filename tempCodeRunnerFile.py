@@ -1,1 +1,1 @@
-("Your pet's age is approximately "+ str(age) + " weeks old")
+elif key != upper and key != lower
