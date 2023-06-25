@@ -1,2 +1,2 @@
 # Python
-I'm learning Python and upload my problem / project solutions here in Github.
+I'm currently learning Python and upload my problem / project solutions here in Github.
